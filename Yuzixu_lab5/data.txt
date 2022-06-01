@@ -1,0 +1,11 @@
+10
+pencil
+pen
+cup
+stack
+computer
+mouse
+keyboard
+box
+light
+marine
